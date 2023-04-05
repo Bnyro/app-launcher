@@ -1,0 +1,12 @@
+# Inspired by https://git.jcg.re/jcgruenhage/stdm
+
+[package]
+name = "app-launcher"
+version = "0.1.0"
+edition = "2021"
+description = "A simple tui application launcher"
+license = "GPL-3.0-only"
+
+[dependencies]
+dialoguer = "*"
+glob = "*"
